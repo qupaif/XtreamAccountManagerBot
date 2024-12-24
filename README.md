@@ -1,5 +1,5 @@
 # XtreamUIAccountTelegramManagerBot
-	anage xtreamui iptv users through telegram bot. Users can earn points through daily check-in through telegram bot and use the points to independently register accounts and choose packages to create their own iptv subscription links.
+  Manage xtreamui iptv users through telegram bot. Users can earn points through daily check-in through telegram bot and use the points to independently register accounts and choose packages to create their own iptv subscription links.
 ### Telegram bot support commands:
 
 1. `/start`, `/help`: start using bot
