@@ -19,6 +19,6 @@ Submit the following command to your bot
 
 
 
-git clone https://github.com/qupaif/XtreamUIAccountTelegramManagerBot.git
-pip install -r requeirments.txt
-python3 main.py
+git clone https://github.com/qupaif/XtreamUIAccountTelegramManagerBot.git  
+pip install -r requeirments.txt  
+python3 main.py  
